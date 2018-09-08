@@ -1,3 +1,7 @@
+/*
+Christopher Sordan
+*/
+
 package snake; 
 
 import java.io.BufferedReader;
