@@ -26,10 +26,7 @@ We gained vital exposure in javascript, a language that we all for the most part
 ## What I learned
 I learned some javascript and how API calls are made with javascript. From a design standpoint I also learned the importance of the flow of the user interface. From a team standpoint we learned how to manage our time and set incremental goals to meet for our project. We learned about the six step SPRINT method( understand, define, diverge, decide,prototype) that was used as an outline for our project. We learned have to use Node.js
 
-## What's next for KaraO-Notation
-So far we input mp3 files to our program so for additional functionality we will have to make it work for youtube links. For the lyrics we can add a highlighting functionality where the individual letters are highlighted to match the timing of the song.
+## What's next for Snake
+The sky is the limit 
 
-## Clickable Prototype
-https://invis.io/SGB0U0AD7
 
-[![gif](karaode.gif)](https://invis.io/SGB0U0AD7 "Click here to try!")
