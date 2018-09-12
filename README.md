@@ -16,7 +16,7 @@ A lot youtube and Googling. Also, I would like to thank my proffessor, Dr. Oser,
 
 ## Challenges I ran into
 
-
+Because this was my first time diving into the realm of game development in Java, everything was a fresh challenge to me. 
 
 There were two ways we thought of implementing our idea. So we could either take the youtube links and find lyrics that match the song from a song database or we could use text-to-speech input to output the lyrics. We had trouble matching the timing of the lyrics to the song. Our audio filtering was inconsistent, depending on the composition of the song the success of our filtering varied. We decided to write the API calls with javascript but I was unfamiliar with javascript so I spent a lot of time figuring out how to translate java code into javascript. We also had design conflicts in choosing between a moving, flashy background or a static, simple background. 
 
