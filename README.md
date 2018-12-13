@@ -8,7 +8,7 @@ This was the final project of my introduction to programming class at Emory Univ
 This game is my own rendition of the arcade game, Snake, originally known as Blockade. Instead of the classic game of snake, in which the objective is to eat the most blocks to get the longest snake as possible, my version implements a level system. In each increasing level, the layout of the map changes with different obstacles and the speed of the snake increases. I have yet to find someone that has been able to successfully complete all 10 levels so please let me know if you are able to do so. Send me a screenshot of the completion message and a picture of your face and I will have it framed in my apartment forever. 
 
 ## How I built it
-A lot youtube and Googling. Also, I would like to thank my proffessor, Dr. Oser, for always being there for me during office hours. Without him, I probably would have never gotten this game to work and probably would have switched majors. 
+A lot youtube and Googling. Also, I would like to thank my professor, Dr. Oser, for always being there for me during office hours. Without him, I probably would have never gotten this game to work and probably would have switched majors. 
 
 ## Challenges I ran into
 Because this was my first time diving into the realm of game development in Java, everything was a fresh challenge to me. From termining and implementing the initial display of the interface to graphics to adding music to reasoning out the countless number of "if" statements, this was a beast of a project for my first game. However, I loved every second of it and this project was what gave me the initial confidence and motivation to keep developing software. 
